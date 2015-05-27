@@ -7,5 +7,8 @@
 		"express": "latest",
 		"node-static" : "latest"
     },
+    "engines": {
+    	"node": "0.12.3"
+    },
     "author": "Lena, Alex & Rajesh"
 }
